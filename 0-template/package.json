@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "part1": "ts-node part1.ts",
+    "part2": "ts-node part2.ts"
+  },
+  "keywords": [],
+  "author": "oogooro",
+  "license": "ISC",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oogooro/advent-of-code-2024"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
